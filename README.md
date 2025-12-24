@@ -47,8 +47,8 @@ npm run dev
 
 ```md
 Scores are currently defined as a static object returned by the records API.
-
-Example record format:
+```
+**Example record format:**
 ```ts
 {
   overall: 10,
