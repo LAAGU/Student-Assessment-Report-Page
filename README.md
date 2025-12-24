@@ -51,10 +51,10 @@ Scores are currently defined as a static object returned by the records API.
 **Example record format:**
 ```ts
 {
-  overall: 10,
-  pronunciation: 10,
-  fluency: 10,
-  vocabulary: 10,
-  grammar: 10
+  overall: 9,
+  pronunciation: 9,
+  fluency: 9,
+  vocabulary: 9,
+  grammar: 9
 }
 ```
